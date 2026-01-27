@@ -23,7 +23,7 @@ This skill transforms Claude (or any compatible AI assistant) into a Next.js SEO
 ### Install with npx (Recommended)
 
 ```bash
-npx add-skill rajendraprasadn/nextjs-seo-optimizer
+npx add-skill kumbajirajkumar123/nextjs-seo-optimizer
 ```
 
 ### Manual Installation
@@ -31,15 +31,15 @@ npx add-skill rajendraprasadn/nextjs-seo-optimizer
 #### For Claude Code
 ```bash
 # Global installation
-git clone https://github.com/rajendraprasadn/nextjs-seo-optimizer.git ~/.claude/skills/nextjs-seo-optimizer
+git clone https://github.com/kumbajirajkumar123/nextjs-seo-optimizer.git ~/.claude/skills/nextjs-seo-optimizer
 
 # Project-specific installation
-git clone https://github.com/rajendraprasadn/nextjs-seo-optimizer.git .claude/skills/nextjs-seo-optimizer
+git clone https://github.com/kumbajirajkumar123/nextjs-seo-optimizer.git .claude/skills/nextjs-seo-optimizer
 ```
 
 #### For Cursor
 ```bash
-git clone https://github.com/rajendraprasadn/nextjs-seo-optimizer.git ~/.cursor/skills/nextjs-seo-optimizer
+git clone https://github.com/kumbajirajkumar123/nextjs-seo-optimizer.git ~/.cursor/skills/nextjs-seo-optimizer
 ```
 
 #### For Claude.ai (Web Interface)
